@@ -1,2 +1,2 @@
-pirnt("Hello world")
+print("Hello world")
 #kuo
